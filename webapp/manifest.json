@@ -83,7 +83,7 @@
         "async": true,
         "viewPath": "student01.com.sap.training.ux402.fullscreen.ux402fullscreen.view",
         "controlAggregation": "pages",
-        "controlId": "app",
+        "controlId": "idApp",
         "clearControlAggregation": false,
         "transition": "slide",
         "bypassed": {
