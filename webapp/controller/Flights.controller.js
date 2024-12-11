@@ -1,10 +1,12 @@
 sap.ui.define([
     "sap/ui/core/mvc/Controller",
     "student01/com/sap/training/ux402/fullscreen/ux402fullscreen/control/HoverButton",
+    "student01/com/sap/training/ux402/fullscreen/ux402fullscreen/control/PlaneInfo",
     "sap/m/MessageToast"
 ],
     function (Controller,
         HoverButton,
+        PlaneInfo,
         MessageToast
     ) {
         "use strict";
